@@ -8,7 +8,8 @@
 ## 🛠 Tech Stack  
 - **Languages:** Java, Kotlin  
 - **Concepts:** DSA, OOP, Algorithms  
-- **Version Control:** Git & GitHub  
+- **Version Control:** Git & GitHub
+- **Frameworks:** Spring, Spring Boot, React
 
 ## 🚀 What I'm Up To  
 - Building **efficient & optimized solutions**  
