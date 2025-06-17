@@ -21,5 +21,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-jha-67a177317/)  
 
 ---
-
+https://wakatime.com/badge/user/a82571f2-4c87-4e84-b2c3-ece111a56afa.svg
 
