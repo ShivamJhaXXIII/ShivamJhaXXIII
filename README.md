@@ -8,7 +8,7 @@
 ## 🛠 Tech Stack  
 - **Languages:** Java, Kotlin  
 - **Concepts:** DSA, OOP, Algorithms  
-- **Version Control:** Git & GitHub
+- **Version Control:** Git & GitHub  
 - **Frameworks:** Spring, Spring Boot, React
 
 ## 🚀 What I'm Up To  
@@ -20,6 +20,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShivamJhaXXIII)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-jha-67a177317/)  
 
----
-https://wakatime.com/badge/user/a82571f2-4c87-4e84-b2c3-ece111a56afa.svg
-
+![WakaTime](https://wakatime.com/badge/user/a82571f2-4c87-4e84-b2c3-ece111a56afa.svg)
