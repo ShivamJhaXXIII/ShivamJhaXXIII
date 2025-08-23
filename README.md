@@ -1,34 +1,57 @@
-# 👋 Hi, I'm Shivam Jha!
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Shivam</h1>
+<h3 align="center">🚀 Full Stack Developer | Java + React + Spring Boot</h3>
 
-🎓 **CS Student @ Narula Institute of Technology** | 💻 **Java & Backend Enthusiast**  
-🚀 Learning **DSA, OOP & System Design** | Solving on **Leetcode & GFG**  
+<!-- Socials -->
+<p align="center">
+  <a href="https://linkedin.com/in/shivam-jha23"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/jha_shivam23"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=X&logoColor=white"/></a>
+  <a href="mailto:shivam23040223@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🛠 Tech Stack  
-- **Languages:** Java, Kotlin  
-- **Concepts:** DSA, OOP, Algorithms  
-- **Version Control:** Git & GitHub  
-- **Frameworks:** Spring, Spring Boot, React
+### 👨‍💻 About Me
+- 🌱 Currently working with **Spring Boot + React**
+- 💡 Interested in **Web3, AI/ML, and Full Stack Systems**
+- 📚 Currently learning **AI/ML concepts** and exploring practical applications
+- 🎯 2025 Goal: **Become job-ready, build impactful projects, and grow deeper in AI/ML**
+- ⚡ Fun fact: I debug with coffee ☕
 
-## 🚀 What I'm Up To  
-- Building **efficient & optimized solutions**  
-- Exploring **backend development**  
-- Preparing for **coding interviews**  
+---
 
-## 📫 Connect With Me  
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShivamJhaXXIII)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-jha-67a177317/)  
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,react,tailwind,html,css,git,github,python,mysql,mongodb,linux,docker,postgres,nextjs" />
+</p>
 
-<!-- Copy-paste in your Readme.md file -->
+---
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=159454994" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=159454994&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @ShivamJhaXXIII" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=159454994&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" height="160"/>
+</p>
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+---
+### 🧩 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Shivam_jha23?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats"/>
+</p>
 
-![WakaTime](https://wakatime.com/badge/user/a82571f2-4c87-4e84-b2c3-ece111a56afa.svg)
+---
+
+### 🚀 Featured Projects
+
+
+---
+---
+
+### 🌐 Connect with me
+
+---
+
+### ✨ Fun Extras
+[![wakatime](https://wakatime.com/badge/user/a82571f2-4c87-4e84-b2c3-ece111a56afa.svg)](https://wakatime.com/@a82571f2-4c87-4e84-b2c3-ece111a56afa)
+
+
