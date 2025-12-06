@@ -26,30 +26,12 @@
 </p>
 
 ---
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" height="160"/>
-</p>
-
----
 ### 🧩 LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Shivam_jha23?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats"/>
 </p>
 
----
 
-### 🚀 Featured Projects
-
-
----
----
-
-### 🌐 Connect with me
-
----
 
 ### ✨ Fun Extras
 [![wakatime](https://wakatime.com/badge/user/a82571f2-4c87-4e84-b2c3-ece111a56afa.svg)](https://wakatime.com/@a82571f2-4c87-4e84-b2c3-ece111a56afa)
